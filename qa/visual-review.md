@@ -26,6 +26,7 @@ El refinamiento premium añade profundidad controlada mediante bordes luminosos,
 - La confirmación muestra el estado correcto y el subtotal revisado en desktop y mobile; no quedan overlays fantasma.
 - El detalle, carrito y confirmación contienen el foco mientras están abiertos, dejan el fondo inerte y devuelven el foco al control de origen al cerrar con Escape.
 - Los campos permanecen en 16 px para evitar zoom involuntario en iOS y los controles principales conservan objetivos táctiles de al menos 44 px en dispositivos touch.
+- En el encabezado móvil, la cesta queda anclada al extremo derecho y separada visualmente del logotipo; la búsqueda conserva toda la segunda fila.
 - No se observan desbordamientos horizontales, texto cortado, controles fuera del viewport, imágenes rotas ni contraste problemático.
 - La sección inferior de identidad diferencia visualmente la propuesta sin desplazar el comercio del primer plano.
 
