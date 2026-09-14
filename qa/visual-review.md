@@ -12,6 +12,8 @@ Fecha: 2026-09-14
 
 **PASS.** La demo se percibe como storefront móvil específico de Anella y no como landing genérica. La paleta rosa arcilla, crema, verde petróleo y carbón es consistente; la serif editorial domina, el script se limita a acentos, y la botánica lineal aparece como motivo secundario sin competir con el catálogo.
 
+El refinamiento premium añade profundidad controlada mediante bordes luminosos, sombras suaves, capas translúcidas y microestados; no introduce nuevos colores, recursos remotos ni elementos decorativos que compitan con el producto.
+
 ## Hallazgos verificados
 
 - El primer viewport muestra la barra de demo, marca, búsqueda, carrito, hero compacto, filtros y el inicio del primer producto tanto en desktop como en mobile.

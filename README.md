@@ -16,7 +16,7 @@ Storefront responsive y autocontenido creado como **propuesta visual no oficial*
 - Flujo simulado de pickup o delivery.
 - Dirección obligatoria para delivery y aceptación explícita de la simulación.
 - Vista previa y confirmación sin transmisión de información.
-- Diseño responsive validado en desktop y móvil.
+- Diseño editorial premium validado en desktop y móvil, con profundidad visual, acabados táctiles y overlays refinados.
 - Compatibilidad móvil reforzada para 320–430 px, orientación horizontal, áreas seguras, controles táctiles y conexiones con ahorro de datos.
 - PDF oficial preservado localmente como referencia.
 - Imágenes generadas, distintas por producto y marcadas como ilustrativas.
