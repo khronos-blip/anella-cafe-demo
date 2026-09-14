@@ -17,6 +17,7 @@ Storefront responsive y autocontenido creado como **propuesta visual no oficial*
 - Dirección obligatoria para delivery y aceptación explícita de la simulación.
 - Vista previa y confirmación sin transmisión de información.
 - Diseño responsive validado en desktop y móvil.
+- Compatibilidad móvil reforzada para 320–430 px, orientación horizontal, áreas seguras, controles táctiles y conexiones con ahorro de datos.
 - PDF oficial preservado localmente como referencia.
 - Imágenes generadas, distintas por producto y marcadas como ilustrativas.
 - Navegación accesible por teclado, foco contenido en overlays y retorno al control de origen.
@@ -82,6 +83,7 @@ python3 qa/structural-check.py
 node --check qa/inline-script.js
 node --check qa/run-qa.js
 QA_URL=http://127.0.0.1:4173 node qa/run-qa.js
+QA_URL=http://127.0.0.1:4173 node qa/mobile-compatibility.js
 ```
 
 Los scripts funcionales requieren Playwright disponible en el entorno. Los resultados quedan en:

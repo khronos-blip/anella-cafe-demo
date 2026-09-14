@@ -115,6 +115,7 @@ python3 qa/structural-check.py
 node --check qa/inline-script.js
 node --check qa/run-qa.js
 QA_URL=http://127.0.0.1:4173 node qa/run-qa.js
+QA_URL=http://127.0.0.1:4173 node qa/mobile-compatibility.js
 ```
 
 El servidor puede levantarse en otra terminal con:
@@ -136,6 +137,7 @@ Aceptación mínima:
 - [ ] Vista previa y confirmación conservan el subtotal.
 - [ ] Hay 0 errores de consola, página, requests fallidas y requests off-origin.
 - [ ] No hay overflow horizontal en `1440×1000` ni `390×844`.
+- [ ] La matriz móvil pasa en 320, 360, 375, 390, 412 y 430 px, además de orientación horizontal.
 - [ ] Inspeccionar home, catálogo, detalle, carrito y confirmación en ambos viewports.
 - [ ] Revisar encuadres, legibilidad, overlays, estados vacíos y controles táctiles.
 

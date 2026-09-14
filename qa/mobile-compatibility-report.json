@@ -1,0 +1,76 @@
+{
+  "url": "http://127.0.0.1:4173",
+  "runAt": "2026-09-14T19:27:13.276Z",
+  "locale": "es-VE",
+  "timezone": "America/Caracas",
+  "profiles": {
+    "android-small": {
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    },
+    "android-compact": {
+      "width": 360,
+      "height": 740,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    },
+    "iphone-se": {
+      "width": 375,
+      "height": 667,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    },
+    "android-standard": {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    },
+    "android-large": {
+      "width": 412,
+      "height": 915,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    },
+    "iphone-large": {
+      "width": 430,
+      "height": 932,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    },
+    "mobile-landscape": {
+      "width": 844,
+      "height": 390,
+      "overflow": false,
+      "minimumInputFontPx": 16,
+      "touchTargets": true,
+      "overlayContained": true,
+      "status": "pass"
+    }
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "offOriginRequests": [],
+  "status": "pass"
+}
