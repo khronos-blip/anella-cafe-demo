@@ -10,7 +10,7 @@ Storefront responsive y autocontenido creado como **propuesta visual no oficial*
 ## Qué incluye
 
 - Catálogo de 6 productos con nombre, descripción y precio verificados.
-- Búsqueda y filtros por categoría.
+- Búsqueda y filtros por categoría con conteo de resultados y recuperación del estado vacío.
 - Modal de detalle y selector de cantidad.
 - Carrito persistente mediante `localStorage`.
 - Flujo simulado de pickup o delivery.
@@ -19,6 +19,7 @@ Storefront responsive y autocontenido creado como **propuesta visual no oficial*
 - Diseño responsive validado en desktop y móvil.
 - PDF oficial preservado localmente como referencia.
 - Imágenes generadas, distintas por producto y marcadas como ilustrativas.
+- Navegación accesible por teclado, foco contenido en overlays y retorno al control de origen.
 - Cero dependencias de frontend, trackers o requests a terceros.
 
 ## Arquitectura
@@ -68,7 +69,7 @@ Las imágenes de producto **no son fotografías oficiales de Anella Café**. La 
 La entrega actual fue aprobada con:
 
 - 13 comprobaciones estructurales.
-- 51 gates funcionales.
+- 69 gates funcionales.
 - 10 capturas en `1440×1000` y `390×844`.
 - 0 errores de consola o página.
 - 0 requests fallidas u off-origin.

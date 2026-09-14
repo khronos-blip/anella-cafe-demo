@@ -15,11 +15,13 @@ Fecha: 2026-09-14
 ## Hallazgos verificados
 
 - El primer viewport muestra la barra de demo, marca, búsqueda, carrito, hero compacto, filtros y el inicio del primer producto tanto en desktop como en mobile.
+- El conteo de resultados acompaña la búsqueda y los filtros sin competir con el titular; el filtro activo conserva una señal visual clara en ambos viewports.
 - Las 6 imágenes son distintas, luminosas, legibles y coherentes con cada nombre/descripción. Los encuadres conservan el postre completo en cards y detalle, sin cortes críticos.
 - Las cards móviles tienen jerarquía clara: categoría, nombre, descripción, precio y acción. En desktop, la retícula de tres columnas mantiene ritmo editorial y densidad comercial.
 - El modal de detalle se lee completo en ambos viewports; imagen, cantidad y CTA quedan visibles, con overlay uniforme.
 - El drawer muestra 2 productos distintos, controles de cantidad y subtotal de **16,00 €** sin solapes.
 - La confirmación muestra el estado correcto y el subtotal revisado en desktop y mobile; no quedan overlays fantasma.
+- El detalle, carrito y confirmación contienen el foco mientras están abiertos, dejan el fondo inerte y devuelven el foco al control de origen al cerrar con Escape.
 - No se observan desbordamientos horizontales, texto cortado, controles fuera del viewport, imágenes rotas ni contraste problemático.
 - La sección inferior de identidad diferencia visualmente la propuesta sin desplazar el comercio del primer plano.
 
