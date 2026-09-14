@@ -1,0 +1,7 @@
+.DS_Store
+qa/server-port.txt
+sources/extracted/
+sources/menu-pages/
+sources/menu-text.txt
+sources/extracted-images.json
+assets/generated/contact-sheet.png

@@ -1,0 +1,41 @@
+{
+  "file": "dist/index.html",
+  "parser": "python stdlib html.parser with nesting checks",
+  "parserErrors": [],
+  "productCount": 6,
+  "productNames": [
+    "Torta de Pistacho",
+    "Ponqué Chocolate Anella",
+    "Torta Zanahoria",
+    "Pie de Pistacho",
+    "Cheesecake de Frutos Rojos",
+    "Brownie"
+  ],
+  "uniqueImageCount": 6,
+  "imageFiles": [
+    "dist/assets/torta-pistacho.jpg",
+    "dist/assets/ponque-chocolate-anella.jpg",
+    "dist/assets/torta-zanahoria.jpg",
+    "dist/assets/pie-pistacho.jpg",
+    "dist/assets/cheesecake-frutos-rojos.jpg",
+    "dist/assets/brownie.jpg"
+  ],
+  "externalDependencies": [],
+  "checks": {
+    "htmlParser": true,
+    "hasDoctype": true,
+    "exactly6Products": true,
+    "exactVerifiedCopy": true,
+    "exactly6UniqueImages": true,
+    "allImagesExist": true,
+    "zeroExternalDependencies": true,
+    "localFavicon": true,
+    "robotsNoindex": true,
+    "localOfficialPdf": true,
+    "disclosureExact": true,
+    "noWhatsAppFetchXHR": true,
+    "inlineScriptExtracted": true
+  },
+  "status": "pass",
+  "sha256": "53023cc081057f01643dc4bd80c5f1db61f0afe0634e21d1f79f623a560e3634"
+}
